@@ -22,12 +22,13 @@ faiss-cpu
 
 4.Start the FastAPI server
     uvicorn main:app --reload
+
 5.💻 Frontend Setup (React)
      Commands:
-
        cd ../frontend
        npm install
        npm start
+       
 6.🔗 Connecting Frontend to Backend
      Commands:
           fetch('http://127.0.0.1:8000/api/hello')
