@@ -7,7 +7,7 @@ This project is a full-stack application that combines:
 
 ## 2.🧱 Project Structure
 
-<pre><code> ``` face-rag-app/ │ ├── backend/ # Python Face recognition + RAG │ ├── face_recognition.py │ ├── rag_engine.py │ ├── app.py # FastAPI for REST and WebSocket │ ├── database.py │ └── requirements.txt │ ├── frontend/ # React app │ ├── public/ │ ├── src/ │ │ ├── components/ │ │ │ ├── RegistrationTab.jsx │ │ │ ├── RecognitionTab.jsx │ │ │ └── ChatWidget.jsx │ │ ├── App.js │ │ └── index.js │ └── package.json │ └── README.md ``` </code></pre>
+ ``` face-rag-app/ │ ├── backend/ # Python Face recognition + RAG │ ├── face_recognition.py │ ├── rag_engine.py │ ├── app.py # FastAPI for REST and WebSocket │ ├── database.py │ └── requirements.txt │ ├── frontend/ # React app │ ├── public/ │ ├── src/ │ │ ├── components/ │ │ │ ├── RegistrationTab.jsx │ │ │ ├── RecognitionTab.jsx │ │ │ └── ChatWidget.jsx │ │ ├── App.js │ │ └── index.js │ └── package.json │ └── README.md ``` 
 
 3.Make sure requirements.txt includes:
 fastapi
