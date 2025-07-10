@@ -1,5 +1,4 @@
-# 1.🎭 Face Recognition Platform with Real-Time AI Q&A using RAG which was given by the company Katomaran as a hackathon task :url:  https://katomaran.com
-
+# 1.🎭 Face Recognition Platform with Real-Time AI Q&A using RAG. 
 This project is a full-stack application that combines:
 - **Face Recognition** with a Python FastAPI backend
 - **React** frontend interface
